@@ -1,0 +1,17 @@
+# Core dependencies for Level 1: Custom Matrix Factorization
+numpy==1.26.4
+pandas>=2.0.0
+scikit-learn>=1.0.0
+matplotlib>=3.0.0
+jupyter>=1.0.0
+
+# Web interface
+gradio>=5.0.0
+
+# Optional dependencies for future levels
+torch>=2.0.0
+scikit-surprise>=1.1.0
+
+# Development dependencies
+ipykernel>=6.0.0
+notebook>=6.0.0
